@@ -1,0 +1,33 @@
+/* HomePage.css */
+.home-page {
+    padding: 20px;
+    background-color: #f4f4f4; /* Light grey background for better contrast */
+    color: #333; /* Dark grey text color for readability */
+  }
+  
+  .home-page h1 {
+    color: #2a71d0; /* Blue color for main title */
+    text-align: center;
+    margin-bottom: 20px; /* Space below the header */
+  }
+  
+  .home-page h2 {
+    color: #4a4a4a; /* Darker grey for secondary headers */
+    margin-top: 20px;
+    text-align: left;
+    border-bottom: 2px solid #ddd; /* Underline effect */
+    padding-bottom: 5px;
+  }
+  
+  .home-page h3 {
+    color: #666; /* Lighter grey for smaller headers */
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    font-size: 16px; /* Standard text size for paragraphs */
+    line-height: 1.5; /* Line height for better readability */
+    color: #333; /* Consistent text color with headers */
+  }
+  

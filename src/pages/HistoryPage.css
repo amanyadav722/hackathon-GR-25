@@ -1,0 +1,33 @@
+/* HistoryPage.css */
+.history-page {
+    padding: 20px;
+    background-color: #f0f0f0; /* Light grey background for the page */
+  }
+  
+  .history-page h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .history-entry {
+    background-color: #537828; /* Green background */
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 10px; /* Rounded corners for the entry */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Slight shadow for depth */
+  }
+  
+  .location,
+  .time {
+    color: white;
+    font-size: 16px;
+  }
+  
+  .location {
+    font-weight: bold;
+  }
+  
+  .time {
+    padding-top: 5px;
+  }
+  

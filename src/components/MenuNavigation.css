@@ -1,0 +1,22 @@
+/* MenuNavigation.css */
+.menu-navigation {
+    background-color: #333; /* Dark background for the navbar */
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  .menu-navigation a {
+    color: white; /* Light text color for visibility */
+    padding: 10px 15px;
+    text-decoration: none; /* Removes underline from links */
+    margin: 0 10px;
+    font-size: 18px;
+    border-radius: 5px; /* Optional: adds rounded corners to the link elements */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effects */
+  }
+  
+  .menu-navigation a:hover {
+    background-color: #555; /* Darker background on hover */
+    color: #fff; /* Keeps text color white */
+  }
+  
